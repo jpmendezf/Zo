@@ -1,0 +1,2 @@
+# Zo
+Framework que integra CodeIgniter-Doctrine-ZappReport-Extjs y simula el funcionamiento Odoo. Proporciona un marco perfecto para desarrolladores, que permite gestionar CRUD simples y complejos de forma sencilla a partir del modelamiento de la Base de Datos. Permite desarrollar módulos e integrarlos entre ellos de manera facil. Maneja diferentes gestores de Base de datos (postgres,mysql), multiples idiomas y temas que permite convertir su aplicación escritorio en una versión móvil con facilidad.
